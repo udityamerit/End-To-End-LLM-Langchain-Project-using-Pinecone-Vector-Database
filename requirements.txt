@@ -1,1 +1,11 @@
 openai
+unstructured
+tiktoken
+langchain
+pypdf
+python-dotenv
+numpy
+pandas
+pinecone
+langchain-community
+sentence-transformers
